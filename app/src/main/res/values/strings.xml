@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filas</string>
+    <string name="numero">Numero</string>
+    <string name="aceptar">Aceptar</string>
+
+    <string name="ingrese">Ingrese un numero</string>
+</resources>
